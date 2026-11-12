@@ -2,7 +2,9 @@
 
 I'm a software developer with 15+ years of experience in enterprise application development, production support, and SQL Server.
 
-I'm currently focused on building reliable business automation solutions using Python, APIs, workflow integrations, and AI-assisted development tools.
+I focus on designing and building reliable business automation solutions using Python, APIs, workflow integrations, and AI-assisted development tools.
+
+My experience combines enterprise software engineering with practical business process automation, production troubleshooting, and application reliability.
 
 ## 🛠 Technical Skills
 
@@ -14,57 +16,84 @@ I'm currently focused on building reliable business automation solutions using P
 
 **Databases:** Microsoft SQL Server, T-SQL
 
-**Tools:** VS Code, Visual Studio, Git, GitHub, Azure DevOps, Codex
+**Tools:** VS Code, Visual Studio, Git, GitHub, Azure DevOps, ChatGPT, Codex
 
 **Monitoring & Reporting:** New Relic, Power BI, Google Sheets, Telegram
 
+**Engineering Practices:** Root Cause Analysis, Code Reviews, Testing, Production Support, Incident Investigation, Change Management
+
 ## 🚀 Featured Project
 
-### Pro Black Belt Academy — Business Automation Platform
+### Business Operations Automation Platform
 
-Designed and developed an automation platform supporting business operations across two locations.
+**Independent Automation Developer | 2026–Present**
 
-**Technologies:** Python, Playwright, Zapier, Telegram, Google Sheets, GitHub, and AI-assisted development tools.
+Designed and developed a business automation platform supporting operational and financial reporting across two independently operated business locations.
 
-**Key capabilities:**
-- Automated operational and financial report extraction and processing
+The solution was developed using Python, Playwright, Zapier, Telegram, Google Sheets, and AI-assisted development tools.
+
+#### Key Capabilities
+
+- Automated operational and financial report retrieval, processing, and distribution
 - Scheduled daily, weekly, and monthly reporting workflows
-- Telegram notifications for operational reporting
+- Telegram notifications for business operations and reporting
 - Zapier-based daily and weekly appointment notifications
-- Execution monitoring, retry mechanisms, and failure alerts
-- Data preparation for Google Sheets and Power BI reporting
+- Execution monitoring, retry mechanisms, and failure notifications
+- Secure authentication handling and structured application logging
+- Data preparation and integration with Google Sheets and Power BI
+- Exception-based monitoring to reduce repetitive manual work
 
-**Business impact:**
+#### Business Impact
+
 - Replaced routine manual report reviews with exception-based monitoring
-- Previous manual review workload: approximately 260 hours annually across two locations
+- Previous manual review workload: approximately 5 hours per week across two locations
+- Equivalent to approximately 260 hours of routine manual review annually
 
-*The production repository is private to protect business information and credentials.*
+#### AI-Assisted Development
 
-## 💼 Professional Background
+Used ChatGPT and OpenAI Codex to assist with application development, troubleshooting, code refinement, and testing.
+
+My responsibilities include defining business requirements, designing workflows, guiding implementation, validating results, and maintaining the automation platform.
+
+*The production source code and operational data are maintained in a private repository.*
+
+## 💼 Professional Experience
 
 ### Almac — Software Developer
 **November 2010 – Present**
 
-**Production Support Team (2022 – Present)**
-- Investigate critical production incidents in clinical trial applications
-- Perform root cause analysis using C#, SQL Server, application logs, and audit trails
-- Develop and validate SQL data remediation scripts
-- Coordinate technical reviews, production change approvals, and post-deployment verification
+#### Production Support Team (2022 – Present)
 
-**Development Team (2010 – 2022)**
-- Developed C#/.NET clinical trial applications
-- Worked with Entity Framework, LINQ, ASP.NET MVC, and Service Bus
-- Served as primary developer on projects
-- Performed code reviews and mentored developers
+- Investigate high-priority production incidents affecting clinical trial applications
+- Perform root cause analysis using C# source code, SQL Server databases, application logs, audit trails, and system requirements
+- Use New Relic to investigate application errors and performance problems
+- Develop and validate idempotent SQL remediation scripts
+- Coordinate development reviews, production change approvals, and DBA execution
+- Perform post-deployment verification and cross-system impact analysis
+- Collaborate with internal project managers, developers, QA teams, and database administrators
+
+#### Development Team (2010 – 2022)
+
+- Developed and maintained C#/.NET clinical trial applications
+- Worked with ASP.NET MVC, Entity Framework, LINQ, Service Bus, and Microsoft SQL Server
+- Served as primary developer on projects and supported other developers
+- Reviewed technical requirements with project managers and design managers
+- Performed developer-level testing and participated in code reviews
+- Reviewed code for other developers and mentored team members
+- Participated in rotating after-hours production support
 
 ## 🎯 Current Focus
 
-- AI automation and agentic workflows
+- AI Automation and Solutions Engineering
 - AI-assisted software development
-- API integration and workflow orchestration
-- Production reliability and monitoring
-- Building practical automation solutions for businesses
+- LLM APIs, RAG, MCP, and AI agents
+- Business workflow automation and orchestration
+- Enterprise application integration
+- Production reliability, monitoring, and troubleshooting
+- Building practical AI solutions that improve business productivity
 
 ## 📫 Connect
 
 **GitHub:** [prosperforever1](https://github.com/prosperforever1)
+
+*Open to remote opportunities in AI Automation Engineering, AI Solutions Engineering, and related technical roles.*
